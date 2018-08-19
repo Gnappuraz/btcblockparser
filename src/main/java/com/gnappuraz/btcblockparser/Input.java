@@ -1,3 +1,5 @@
+package com.gnappuraz.btcblockparser;
+
 class Input {
     public String txid;
     public int vout;

@@ -1,3 +1,5 @@
+package com.gnappuraz.btcblockparser;
+
 import java.nio.file.*;
 import java.io.*;
 import java.util.*;

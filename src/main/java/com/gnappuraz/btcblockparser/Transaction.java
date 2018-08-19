@@ -1,3 +1,5 @@
+package com.gnappuraz.btcblockparser;
+
 import java.util.*;
 
 class Transaction {

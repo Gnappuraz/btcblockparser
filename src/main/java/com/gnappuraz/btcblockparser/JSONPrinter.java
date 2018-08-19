@@ -1,3 +1,7 @@
+package com.gnappuraz.btcblockparser;
+
+import com.gnappuraz.btcblockparser.BlockHeader;
+
 import java.lang.reflect.*;
 import java.util.*;
 import java.time.*;
